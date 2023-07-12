@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# Access From Here ----> <b><a href="https://sourabhsahu33.github.io/spotifySearchApp/"> Live Host </a></b>
+
+This is a Spotify Search App you have to just write the artist name you will get song playlist.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
